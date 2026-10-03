@@ -1,1 +1,9 @@
-#include
+Hello world Program  
+#include <stdio.h>
+
+int main() 
+{
+     printf("My name is Raja Dubey solve \n"); 
+     printf("Hello world ");
+    return 0;
+}
