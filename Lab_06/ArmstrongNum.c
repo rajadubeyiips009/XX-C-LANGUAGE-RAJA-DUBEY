@@ -6,7 +6,7 @@ int main()
     int i;
     long long sum = 0, power;
 
-    printf("my name is yugal balpande");
+    printf("my name is raja dubey");
 
     printf("Enter a number: ");
     
